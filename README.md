@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://techietuts.netlify.app/](https://techietuts.netlify.app/)
 
-- 💬 Ask me about **Front-End, Backend and Databases**
+- 💬 Ask me about **Front-End, Back-end and Databases**
 
 - 📫 How to reach me **mohdwajid624@gmail.com**
 
